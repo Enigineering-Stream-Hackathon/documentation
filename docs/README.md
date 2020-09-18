@@ -95,3 +95,17 @@
  
 - > <medium>Repository : [bookmark-catalogue-web](https://github.com/Enigineering-Stream-Hackathon/bookmark-catalogue-web)<medium>
 - > <medium> Code Quality : [![Codacy Badge](https://app.codacy.com/project/badge/Grade/624e55409f60490dafe54a7f15a9eaef)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Enigineering-Stream-Hackathon/bookmark-catalogue-web&amp;utm_campaign=Badge_Grade)<medium>
+
+
+## Future Scope
+
+- <small>Enables user to edit details and add password for login</small>
+- <small>Verify login and continue</small>
+- <small>More user friendly UI design</small>
+- <small>Add details like Feature team, tribe, platform details in the cards</small>
+- <small>Add description for catalogues</small>
+
+
+## Open Bugs
+
+- <small>On click of card in catalogue, open a new window with the card short url redirection to actual one</small>
