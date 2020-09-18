@@ -108,4 +108,4 @@
 
 ## Open Bugs
 
-- <small>On click of card in catalogue, open a new window with the card short url redirection to actual one</small>
+- <small>Opening the catalogue short url in a different tab is not working</small>
