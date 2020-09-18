@@ -33,12 +33,35 @@
 - <medium> Cloud server: [Heroku Project](https://dashboard.heroku.com/apps)</medium>
 > [Google Style Guide](https://github.com/google/styleguide/blob/gh-pages/intellij-java-google-style.xml)
 
+## How to start the applications in local?
+
+- <medium>user-management and bookmark-catalogue services</medium>
+    - <medium>Check out the service from the git</medium>
+    - <medium>Start the main application</medium>
+
+- <medium>bookmark-catalogue-web</medium>
+    - <medium>Check out the service from the git</medium>
+    - <medium>Update the constant.js file with the localhost urls of the 3 service</medium>
+    - <medium>From terminal run the command `npm start`</medium>
+
+
 ## Quick Look
 
 
 [BookMark Catalogue](https://bookmark-catalogue-web.herokuapp.com/)
 - > default user with ADMIN role 'admin'
 - >  default user with ADMIN role 'user'
+
+
+## System design
+
+**Identification of ROLE between USER and ADMIN**
+    
+![](img/ui_flow.png)
+
+**Database design**
+
+![](img/database_arch.png)
 
 ## Repositories
 
